@@ -45,12 +45,3 @@ x.getMin()
 x.pop()
 x.getMin()
 x.pop()
-
-
-
-
-
-
-
-
-
